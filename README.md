@@ -7,6 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://linleckkyalsin-myportfolio.netlify.app/](https://linleckkyalsin-myportfolio.netlify.app/)
 
 - 📫 How to reach me **linleckkyalsin@gmail.com**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linleckkyalsin)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
