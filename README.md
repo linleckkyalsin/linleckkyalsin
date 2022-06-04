@@ -1,5 +1,4 @@
-![alt text](http://url/to/954ae8b7b623a79fdffc87394cea132e.webp
-)
+![alt text](https://github.com/linleckkyalsin/linleckkyalsin/blob/main/954ae8b7b623a79fdffc87394cea132e.webp)
 <h1 align="center">Hi 👋, I'm Lin Leck Kyal Sin</h1>
 <h3 align="center">Web Developer</h3>
 
